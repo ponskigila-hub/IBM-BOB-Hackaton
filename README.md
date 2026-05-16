@@ -13,9 +13,9 @@
 ---
 
 ## 🚀 Live Demo
-- Frontend: https://your-vercel-url.vercel.app  
-- Backend: https://your-backend-url.up.railway.app  
-- GitHub: https://github.com/ponskigila-hub/IBM-BOB-Hackaton  
+- Frontend: [https://repolens-delta.vercel.app/](https://repolens-delta.vercel.app/)
+- Backend: [ibm-bob-hackaton-production.up.railway.app](https://ibm-bob-hackaton-production.up.railway.app/)
+- GitHub: [https://github.com/ponskigila-hub/IBM-BOB-Hackaton  ](https://github.com/ponskigila-hub/IBM-BOB-Hackaton/)
 
 ---
 
