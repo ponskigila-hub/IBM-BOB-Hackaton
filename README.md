@@ -1,4 +1,7 @@
 # 🔍 RepoLens AI  
+
+![RepoLens AI Cover](./assets/cover.png)
+
 ### Turn Any GitHub Repository into Instant Intelligence
 
 > AI + Machine Learning system that reads, understands, and evaluates entire codebases in seconds.
